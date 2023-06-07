@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "34878947730",
+    "project_id": "pec-flutter-demo",
+    "storage_bucket": "pec-flutter-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34878947730:android:fa03099742e38aecb5414b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34878947730-fpubqo4o1uudvcid05hgfamkb4meje4r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-KrgSPXHdQqp0lmGbtFf28NYIVEG0Amg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34878947730-fpubqo4o1uudvcid05hgfamkb4meje4r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
